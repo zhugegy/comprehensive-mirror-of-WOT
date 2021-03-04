@@ -1,0 +1,11 @@
+# don't added this
+__pycache__/
+
+# pycharm
+.idea/
+venv/
+env/
+test/
+unverified/
+verified/
+log.log
